@@ -1,5 +1,5 @@
 # CO2-mini-GUI
-CO2 monitor software for CO2-mini new generation. Does not work for old CO2mini.
+CO2 monitor Windows software for CO2-mini new generation. Does not work for old CO2mini.
 
 ![CO2-mini-GUI image](https://github.com/nibasya/CO2-mini-GUI/blob/main/Images/TopImage.png?raw=true)
 
