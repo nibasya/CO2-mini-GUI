@@ -1,5 +1,5 @@
-# CO2-mini-GUI
-CO2 monitor Windows software for CO2-mini new generation. Does not work for old CO2mini.
+# CO2miniGUI
+CO2 monitor software for CO2-mini new generation. Does not work for old CO2mini.
 
 ![CO2-mini-GUI image](https://github.com/nibasya/CO2-mini-GUI/blob/main/Images/TopImage.png?raw=true)
 
@@ -13,6 +13,8 @@ b) Supports new CO2-mini which official CO2-mini application does not support.
 c) Export data as a CSV file.
 
 d) Save plot image. Supported type is: BMP, GIF, JPEG, PNG.
+
+e) Can switch temperature between degC and degF.i
 
 # Notes
 The software will automatically detects connection / disconnection of CO2mini. You do not need to restart the software on re-connection.
@@ -30,4 +32,6 @@ HP: https://donadona.hatenablog.jp/
 GitHub: https://github.com/nibasya/CO2-mini-GUI
 
 # History
+1.1: Added Japanese translation.
+     Added support for degF.
 1.0: Initial release.
